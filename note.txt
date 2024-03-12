@@ -1,0 +1,2 @@
+Código utilizado como base pra realização desse programa para estudos e testes:
+https://github.com/ClintonCode20/email_verification_django
